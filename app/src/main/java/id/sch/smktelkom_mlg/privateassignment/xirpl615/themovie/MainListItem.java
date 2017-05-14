@@ -1,5 +1,9 @@
 package id.sch.smktelkom_mlg.privateassignment.xirpl615.themovie;
 
+/**
+ * Created by Joice Jessica on 5/14/2017.
+ */
+
 public class MainListItem {
     private String imageUrl;
     private String head;
@@ -17,9 +21,11 @@ public class MainListItem {
 
     public String getHead() {
         return head;
+
     }
 
     public String getDesc() {
         return desc;
+
     }
 }

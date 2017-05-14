@@ -86,7 +86,8 @@ public class MainFragment extends Fragment {
                             for (int i = 0; i < array.length(); i++) {
                                 JSONObject o = array.getJSONObject(i);
 
-                                MainListItem item = new MainListItem(
+                                MainListItem item = new MainListItem
+                                        (
                                         o.getString("poster_path"),
                                         o.getString("title"),
                                         o.getString("release_date")
