@@ -22,7 +22,8 @@
   <li> Navigation Drawer </li> 
 </ul> <br>
 
-# Library dari Local Database yang digunakan pada Aplikasi (sebutkan SQLite dasar jika tidak menggunakan library)
+<h1> Database </h1>
+<p> SQLite dasar </p>
 
 <h1> Deskripsi </h1>
 <p> TheMovie adalah aplikasi yang digunakan untuk melihat list film yang sedang tayang di bioskop.
@@ -32,7 +33,7 @@ aplikasi ini mengambil data dari internet. Dengan menggunakan navigation drawer 
 <h1> Kelebihan Aplikasi </h1>
 <p> Menampilkan film terbaru yang sedang tayang di bioskop </p> <br>
 
-# Screenshot Aplikasi </h1>
+<h1> Screenshot Aplikasi </h1>
 <img src ="https://cloud.githubusercontent.com/assets/22056134/26034300/ae56c87c-38e4-11e7-8c69-71033b22bb5f.png" width="300"/>
 <img src ="https://cloud.githubusercontent.com/assets/22056134/26034302/ae785f6e-38e4-11e7-805e-081d5c840c53.png" width="300"/>
 <img src ="https://cloud.githubusercontent.com/assets/22056134/26034303/ae79883a-38e4-11e7-9e0f-f8651d625664.png" width="300"/>
