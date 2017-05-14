@@ -15,17 +15,19 @@ public class MainListItem {
         this.desc = desc;
     }
 
+    public MainListItem() {
+    }
+
     public String getImageUrl() {
         return imageUrl;
     }
 
     public String getHead() {
         return head;
-
     }
 
     public String getDesc() {
         return desc;
-
     }
 }
+
