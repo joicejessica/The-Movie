@@ -27,7 +27,15 @@
 <p> TheMovie adalah aplikasi yang digunakan untuk melihat list film yang sedang tayang di bioskop.
 dengan menggunakan api the movie database, untuk melihat list filmnya harus menggunakan koneksi internet. karena
 aplikasi ini mengambil data dari internet. Dengan menggunakan navigation drawer pengguna aplikasi dapat berpindah menu dengan mudah </p> <br>
+
 <h1> Kelebihan Aplikasi </h1>
 <p> Menampilkan film terbaru yang sedang tayang di bioskop </p> <br>
 
-# Screenshot dari Aplikasi minimal 5 buah (atur posisinya dengan baik, atur ukuran agar mudah dilihat/dibaca, tidak terlalu kecil juga tidak terlalu besar)
+# Screenshot Aplikasi </h1>
+<img src ="https://cloud.githubusercontent.com/assets/22056134/26034300/ae56c87c-38e4-11e7-8c69-71033b22bb5f.png" width="300"/>
+<img src ="https://cloud.githubusercontent.com/assets/22056134/26034302/ae785f6e-38e4-11e7-805e-081d5c840c53.png" width="300"/>
+<img src ="https://cloud.githubusercontent.com/assets/22056134/26034303/ae79883a-38e4-11e7-9e0f-f8651d625664.png" width="300"/>
+<img src ="https://cloud.githubusercontent.com/assets/22056134/26034304/ae7b1768-38e4-11e7-9159-dea8048b0e1a.png" width="300"/>
+<img src ="https://cloud.githubusercontent.com/assets/22056134/26034301/ae775c04-38e4-11e7-9916-2894c97b1dd7.png" width="300"/>
+
+
