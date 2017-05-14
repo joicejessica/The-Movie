@@ -55,7 +55,7 @@ public class DetailActivity extends AppCompatActivity {
 
     private void loadRecyclerViewData() {
         final ProgressDialog progressDialog = new ProgressDialog(this);
-        progressDialog.setMessage("Loading data...");
+        progressDialog.setMessage("Loading data....");
         progressDialog.show();
 
         StringRequest stringRequest = new StringRequest(Request.Method.GET,
@@ -69,7 +69,7 @@ public class DetailActivity extends AppCompatActivity {
                             JSONArray array = jsonObject.getJSONArray("results");
                             JSONObject o = array.getJSONObject(mPostkey);
 
-                            setTitle("Detail of Your Movie");
+                            setTitle("Detail Movie");
 
                             textViewHeadet.setText(o.getString("original_title"));
                             textViewDescet.setText(o.getString("popularity"));
