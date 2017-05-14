@@ -100,6 +100,9 @@ public class MainActivity extends AppCompatActivity
             fragment = new AboutUsFragment();
             setTitle("About");
 
+        } else if (id == R.id.nav_rek) {
+            fragment = new RecommendFragment();
+            setTitle("Recommend");
         }
         getSupportFragmentManager().beginTransaction().replace(R.id.container, fragment).commit();
 
