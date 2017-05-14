@@ -94,13 +94,11 @@ public class MainActivity extends AppCompatActivity
         Fragment fragment = null;
         if (id == R.id.nav_online) {
             fragment = new MainFragment();
-            setTitle("Movie List");
-
-        } else if (id == R.id.nav_offline) {
-
-        } else if (id == R.id.nav_help) {
+            setTitle("Movie");
 
         } else if (id == R.id.nav_about) {
+            fragment = new AboutUsFragment();
+            setTitle("About");
 
         }
         getSupportFragmentManager().beginTransaction().replace(R.id.container, fragment).commit();
