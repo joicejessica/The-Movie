@@ -39,5 +39,9 @@ aplikasi ini mengambil data dari internet. Dengan menggunakan navigation drawer 
 <img src ="https://cloud.githubusercontent.com/assets/22056134/26034303/ae79883a-38e4-11e7-9e0f-f8651d625664.png" width="300"/>
 <img src ="https://cloud.githubusercontent.com/assets/22056134/26034304/ae7b1768-38e4-11e7-9159-dea8048b0e1a.png" width="300"/>
 <img src ="https://cloud.githubusercontent.com/assets/22056134/26034301/ae775c04-38e4-11e7-9916-2894c97b1dd7.png" width="300"/>
+<img src ="https://user-images.githubusercontent.com/22056134/27068417-3dc80af4-503a-11e7-88fa-c1bf5849192b.png" width="300"/>
+<p> Menu Recommend berisi flm rekomendasi </p>
+<img src ="https://user-images.githubusercontent.com/22056134/27068418-3df35e8e-503a-11e7-985a-3e8d93315c4f.png" width="300"/>
+<p> Menggunakan Lokal Database </p>
 
 
